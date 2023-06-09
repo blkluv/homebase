@@ -1,4 +1,4 @@
-*HOMEBASE*
+*ARVRTISE CRE*
 
 Kepler.gl inspired web-app used to visualize housing trends, allowing for early-stage real estate investors to find their market.  Uses GIS principles to join geospatial and economic data sets. 
 
